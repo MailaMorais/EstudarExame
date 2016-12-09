@@ -7,9 +7,9 @@ defined('BASEPATH') OR exit ('No direct script access allowed');
 <html lang="pt-BR">
     <head>
         <meta charset="utf-8">
-        <title>Lista de Produtos</title>
+        <title>Lista de Transações</title>
     </head>
     
-    teste
+    Lista de Transações
 </html>
 
